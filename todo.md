@@ -55,11 +55,11 @@
 
 ## Phase 2 — Build the AppSheet iPhone interface
 
-- [ ] Create an AppSheet app backed by the review Sheet.
-- [ ] Configure a one-memo-at-a-time detail view.
-- [ ] Add `Keep`, `Delete`, and `Unsure` actions.
-- [ ] Add an editable review-note field.
-- [ ] Add views for Pending, Keep, Delete, Unsure, and Completed.
+- [x] Create an AppSheet app backed by the review Sheet.
+- [x] Configure a one-memo-at-a-time detail view with next/previous navigation.
+- [x] Expose `Pending`, `Keep`, `Delete`, and `Unsure` through the quick-edit decision dropdown.
+- [x] Add an editable review-note field through quick edit.
+- [ ] Add dedicated views for Pending, Keep, Delete, Unsure, and Completed.
 - [ ] Automatically populate `reviewed_at` when a decision changes.
 - [ ] Test layout and navigation on an iPhone.
 - [ ] Document AppSheet setup with screenshots.
