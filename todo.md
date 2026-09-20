@@ -6,6 +6,7 @@
 - Give every memo a stable identifier before review.
 - Treat `Delete` as a label, not an immediate destructive action.
 - Keep review decisions portable through CSV export.
+- Limit transcript text placed in the review Sheet to a 200-character preview; keep full transcripts outside the Sheet.
 - Make the basic workflow usable without hosting a custom server.
 
 ## Phase 1 — Prepare the CSV for review
