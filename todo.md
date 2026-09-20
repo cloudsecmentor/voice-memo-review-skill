@@ -29,8 +29,8 @@
 - [x] Default every review decision to `Pending`.
 - [x] Add automated tests for normalization, overrides, missing columns, and duplicate rows.
 - [x] Document manual import into Google Sheets.
-- [ ] Validate the tool against the owner's real transcription CSV.
-- [ ] Import the resulting review CSV into the owner's Google Sheet.
+- [x] Validate the workflow against the owner's real transcription CSV (259 rows, 259 unique IDs).
+- [x] Import the resulting review data into the owner's Google Sheet and verify all rows remotely.
 
 ### Google Sheets import
 
