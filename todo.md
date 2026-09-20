@@ -66,11 +66,11 @@
 ## Phase 3 — Review and quality control
 
 - [ ] Complete an initial review from the iPhone.
-- [ ] Add progress counts by decision.
-- [ ] Detect records with missing or invalid decisions.
-- [ ] Support correction of earlier decisions.
-- [ ] Export a decision snapshot as CSV.
-- [ ] Compare exported IDs with the original prepared dataset.
+- [x] Add progress counts by decision.
+- [x] Detect records with missing or invalid decisions.
+- [x] Support correction of earlier decisions.
+- [x] Export a decision snapshot as CSV.
+- [x] Compare exported IDs with the original prepared dataset.
 
 ## Phase 4 — Reconcile decisions safely
 
